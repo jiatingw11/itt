@@ -1,0 +1,188 @@
+Uri: https://s315protocol.github.io/
+File Name: C:\Downloaded Web Sites\s315protocol.github.io\index.htm
+Content Type: text/html
+
+Uri: https://s315protocol.github.io/app/fruitwars/css/fonts.ttf
+File Name: C:\Downloaded Web Sites\s315protocol.github.io\app\fruitwars\css\fonts.ttf
+Content Type: font/ttf
+
+Uri: https://s315protocol.github.io/app/fruitwars/css/index.css
+File Name: C:\Downloaded Web Sites\s315protocol.github.io\app\fruitwars\css\index.css
+Content Type: text/css
+
+Uri: https://s315protocol.github.io/app/fruitwars/img/bnb.svg
+File Name: C:\Downloaded Web Sites\s315protocol.github.io\app\fruitwars\img\bnb.svg
+Content Type: image/svg+xml
+
+Uri: https://s315protocol.github.io/app/fruitwars/img/logo.png
+File Name: C:\Downloaded Web Sites\s315protocol.github.io\app\fruitwars\img\logo.png
+Content Type: image/png
+
+Uri: https://s315protocol.github.io/app/fruitwars/img/topbg.jpg
+File Name: C:\Downloaded Web Sites\s315protocol.github.io\app\fruitwars\img\topbg.jpg
+Content Type: image/jpeg
+
+Uri: https://s315protocol.github.io/app/fruitwars/index.html
+File Name: C:\Downloaded Web Sites\s315protocol.github.io\app\fruitwars\index.html
+Content Type: text/html
+
+Uri: https://s315protocol.github.io/app/fruitwars/js/abi/erc20.js
+File Name: C:\Downloaded Web Sites\s315protocol.github.io\app\fruitwars\js\abi\erc20.js
+Content Type: application/javascript
+
+Uri: https://s315protocol.github.io/app/fruitwars/js/abi/fruitwars.js
+File Name: C:\Downloaded Web Sites\s315protocol.github.io\app\fruitwars\js\abi\fruitwars.js
+Content Type: application/javascript
+
+Uri: https://s315protocol.github.io/app/fruitwars/js/app.js
+File Name: C:\Downloaded Web Sites\s315protocol.github.io\app\fruitwars\js\app.js
+Content Type: application/javascript
+
+Uri: https://s315protocol.github.io/app/fruitwars/js/game.js
+File Name: C:\Downloaded Web Sites\s315protocol.github.io\app\fruitwars\js\game.js
+Content Type: application/javascript
+
+Uri: https://s315protocol.github.io/app/fruitwars/js/jquery.js
+File Name: C:\Downloaded Web Sites\s315protocol.github.io\app\fruitwars\js\jquery.js
+Content Type: application/javascript
+
+Uri: https://s315protocol.github.io/app/fruitwars/js/jquery.loading.min.js
+File Name: C:\Downloaded Web Sites\s315protocol.github.io\app\fruitwars\js\jquery.loading.min.js
+Content Type: application/javascript
+
+Uri: https://s315protocol.github.io/app/fruitwars/js/toast/jquery.toast.min.css
+File Name: C:\Downloaded Web Sites\s315protocol.github.io\app\fruitwars\js\toast\jquery.toast.min.css
+Content Type: text/css
+
+Uri: https://s315protocol.github.io/app/fruitwars/js/toast/jquery.toast.min.js
+File Name: C:\Downloaded Web Sites\s315protocol.github.io\app\fruitwars\js\toast\jquery.toast.min.js
+Content Type: application/javascript
+
+Uri: https://s315protocol.github.io/app/fruitwars/js/utils.js
+File Name: C:\Downloaded Web Sites\s315protocol.github.io\app\fruitwars\js\utils.js
+Content Type: application/javascript
+
+Uri: https://s315protocol.github.io/app/fruitwars/js/web3.min.js
+File Name: C:\Downloaded Web Sites\s315protocol.github.io\app\fruitwars\js\web3.min.js
+Content Type: application/javascript
+
+Uri: https://s315protocol.github.io/app/lastking/css/fonts.ttf
+File Name: C:\Downloaded Web Sites\s315protocol.github.io\app\lastking\css\fonts.ttf
+Content Type: font/ttf
+
+Uri: https://s315protocol.github.io/app/lastking/css/index.css
+File Name: C:\Downloaded Web Sites\s315protocol.github.io\app\lastking\css\index.css
+Content Type: text/css
+
+Uri: https://s315protocol.github.io/app/lastking/img/bnb.svg
+File Name: C:\Downloaded Web Sites\s315protocol.github.io\app\lastking\img\bnb.svg
+Content Type: image/svg+xml
+
+Uri: https://s315protocol.github.io/app/lastking/img/king.png
+File Name: C:\Downloaded Web Sites\s315protocol.github.io\app\lastking\img\king.png
+Content Type: image/png
+
+Uri: https://s315protocol.github.io/app/lastking/img/logo.png
+File Name: C:\Downloaded Web Sites\s315protocol.github.io\app\lastking\img\logo.png
+Content Type: image/png
+
+Uri: https://s315protocol.github.io/app/lastking/img/topbg.jpg
+File Name: C:\Downloaded Web Sites\s315protocol.github.io\app\lastking\img\topbg.jpg
+Content Type: image/jpeg
+
+Uri: https://s315protocol.github.io/app/lastking/index.html
+File Name: C:\Downloaded Web Sites\s315protocol.github.io\app\lastking\index.html
+Content Type: text/html
+
+Uri: https://s315protocol.github.io/app/lastking/js/abi/erc20.js
+File Name: C:\Downloaded Web Sites\s315protocol.github.io\app\lastking\js\abi\erc20.js
+Content Type: application/javascript
+
+Uri: https://s315protocol.github.io/app/lastking/js/abi/lastking.js
+File Name: C:\Downloaded Web Sites\s315protocol.github.io\app\lastking\js\abi\lastking.js
+Content Type: application/javascript
+
+Uri: https://s315protocol.github.io/app/lastking/js/app.js
+File Name: C:\Downloaded Web Sites\s315protocol.github.io\app\lastking\js\app.js
+Content Type: application/javascript
+
+Uri: https://s315protocol.github.io/app/lastking/js/game.js
+File Name: C:\Downloaded Web Sites\s315protocol.github.io\app\lastking\js\game.js
+Content Type: application/javascript
+
+Uri: https://s315protocol.github.io/app/lastking/js/jquery.js
+File Name: C:\Downloaded Web Sites\s315protocol.github.io\app\lastking\js\jquery.js
+Content Type: application/javascript
+
+Uri: https://s315protocol.github.io/app/lastking/js/jquery.loading.min.js
+File Name: C:\Downloaded Web Sites\s315protocol.github.io\app\lastking\js\jquery.loading.min.js
+Content Type: application/javascript
+
+Uri: https://s315protocol.github.io/app/lastking/js/toast/jquery.toast.min.css
+File Name: C:\Downloaded Web Sites\s315protocol.github.io\app\lastking\js\toast\jquery.toast.min.css
+Content Type: text/css
+
+Uri: https://s315protocol.github.io/app/lastking/js/toast/jquery.toast.min.js
+File Name: C:\Downloaded Web Sites\s315protocol.github.io\app\lastking\js\toast\jquery.toast.min.js
+Content Type: application/javascript
+
+Uri: https://s315protocol.github.io/app/lastking/js/utils.js
+File Name: C:\Downloaded Web Sites\s315protocol.github.io\app\lastking\js\utils.js
+Content Type: application/javascript
+
+Uri: https://s315protocol.github.io/app/lastking/js/web3.min.js
+File Name: C:\Downloaded Web Sites\s315protocol.github.io\app\lastking\js\web3.min.js
+Content Type: application/javascript
+
+Uri: https://s315protocol.github.io/css/fonts.ttf
+File Name: C:\Downloaded Web Sites\s315protocol.github.io\css\fonts.ttf
+Content Type: font/ttf
+
+Uri: https://s315protocol.github.io/css/index.css
+File Name: C:\Downloaded Web Sites\s315protocol.github.io\css\index.css
+Content Type: text/css
+
+Uri: https://s315protocol.github.io/favicon.ico
+File Name: C:\Downloaded Web Sites\s315protocol.github.io\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://s315protocol.github.io/img/banner.jpg
+File Name: C:\Downloaded Web Sites\s315protocol.github.io\img\banner.jpg
+Content Type: image/jpeg
+
+Uri: https://s315protocol.github.io/img/bnb.svg
+File Name: C:\Downloaded Web Sites\s315protocol.github.io\img\bnb.svg
+Content Type: image/svg+xml
+
+Uri: https://s315protocol.github.io/img/ck.svg
+File Name: C:\Downloaded Web Sites\s315protocol.github.io\img\ck.svg
+Content Type: image/svg+xml
+
+Uri: https://s315protocol.github.io/img/cmc.svg
+File Name: C:\Downloaded Web Sites\s315protocol.github.io\img\cmc.svg
+Content Type: image/svg+xml
+
+Uri: https://s315protocol.github.io/img/fruitwars.png
+File Name: C:\Downloaded Web Sites\s315protocol.github.io\img\fruitwars.png
+Content Type: image/png
+
+Uri: https://s315protocol.github.io/img/lastking.png
+File Name: C:\Downloaded Web Sites\s315protocol.github.io\img\lastking.png
+Content Type: image/png
+
+Uri: https://s315protocol.github.io/img/logo.png
+File Name: C:\Downloaded Web Sites\s315protocol.github.io\img\logo.png
+Content Type: image/png
+
+Uri: https://s315protocol.github.io/img/long.png
+File Name: C:\Downloaded Web Sites\s315protocol.github.io\img\long.png
+Content Type: image/png
+
+Uri: https://s315protocol.github.io/img/pancake.svg
+File Name: C:\Downloaded Web Sites\s315protocol.github.io\img\pancake.svg
+Content Type: image/svg+xml
+
+Uri: https://s315protocol.github.io/img/question.png
+File Name: C:\Downloaded Web Sites\s315protocol.github.io\img\question.png
+Content Type: image/png
+
